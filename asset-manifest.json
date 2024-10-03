@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3c25357.css",
+    "main.js": "/static/js/main.95e55bfe.js",
+    "static/js/453.2a82e7ac.chunk.js": "/static/js/453.2a82e7ac.chunk.js",
+    "static/media/KoPubWorld-Batang-Medium.ttf": "/static/media/KoPubWorld-Batang-Medium.0282e6e15da8a98240ee.ttf",
+    "index.html": "/index.html",
+    "main.c3c25357.css.map": "/static/css/main.c3c25357.css.map",
+    "main.95e55bfe.js.map": "/static/js/main.95e55bfe.js.map",
+    "453.2a82e7ac.chunk.js.map": "/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3c25357.css",
+    "static/js/main.95e55bfe.js"
+  ]
+}
